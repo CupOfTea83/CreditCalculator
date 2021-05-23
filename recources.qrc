@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>img/blue_diagonal_stripes-wallpaper-2560x1600.jpg</file>
+    </qresource>
+</RCC>
